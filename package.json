@@ -1,0 +1,16 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow",
+    "joker",
+    "web"
+  ],
+  "author": "Jonas",
+  "license": "ISC"
+}
