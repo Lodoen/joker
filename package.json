@@ -1,20 +1,20 @@
 {
-  "name": "joker",
-  "version": "0.0.2",
-  "description": "Application that tells jokes",
-  "type": "module",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "workflow",
-    "joker",
-    "web"
-  ],
-  "author": "Jonas",
-  "license": "ISC",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  }
+    "name": "joker",
+    "version": "0.0.2",
+    "description": "Application that tells jokes",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node src/js/joker.js"
+    },
+    "keywords": [
+        "workflow",
+        "joker",
+        "web"
+    ],
+    "author": "Jonas",
+    "license": "ISC",
+    "dependencies": {
+        "one-liner-joke": "^1.2.2"
+    }
 }
